@@ -1,0 +1,40 @@
+Overview
+Phishing attacks have become one of the most common and dangerous threats in today's digital society, targeting individuals through deceptive websites that steal sensitive information. This project addresses this growing social issue by developing a mobile and web-based application that uses artificial intelligence to detect and report phishing websites. The app empowers users to protect themselves and others by making online spaces safer and more secure.
+
+Scope
+The project focuses on protecting users from phishing websites through real-time detection and community reporting. Built with accessibility and usability in mind, the app integrates machine learning, a responsive user interface, and a reporting system to assist both everyday internet users and cybersecurity-conscious individuals.
+
+Purpose and Objectives
+The main purpose of the project is to provide a practical and proactive solution to the social issue of phishing. 
+
+By combining AI technology with user participation, the app aims to:
+•	Detect phishing websites using an AI-driven model.
+•	Offer real-time feedback to users about a site's legitimacy.
+•	Enable users to report and track suspicious websites.
+•	Create a shared space for awareness and collective safety online.
+•	Provide a user-friendly and accessible experience across devices.
+
+Key Features
+•	AI-Powered Phishing Detection: Instantly identifies if a site is suspicious or safe.
+•	Confidence Level Display: Shows how sure the system is about its analysis.
+•	User Reporting System: Users can report sites, contributing to a safer internet community.
+•	Personal and Global History Tracking: View your own reports and those from other users.
+•	Modern Dark Mode and UI: Designed for ease of use, especially in low-light settings.
+•	Cross-Platform Support: Works on both mobile and web browsers.
+•	Interactive Design: Includes helpful animations and transitions for better experience.
+
+
+9. Challenges & Future Improvements
+
+Limitations and Potential Enhancements
+
+Addressing phishing as a social issue through technology came with several challenges. These included training an accurate machine learning model, ensuring the UI works consistently across platforms, and handling real-time data while maintaining performance. Dealing with false detections and ensuring ethical reporting were also important concerns. While the current version is stable and functional, there’s still room for improvement in terms of intelligence, security, and user reach.
+Plans for Future Iterations
+To continue addressing phishing and helping more people stay protected online, future plans include:
+•	Improving model accuracy through advanced machine learning tuning.
+•	Expanding the database with more verified phishing and safe sites.
+•	Exploring integration with browsers or email clients for wider impact.
+•	Enhancing offline support and response times.
+•	Offering language options to support global users.
+•	Providing user education tools to raise phishing awareness.
+
